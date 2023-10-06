@@ -1,3 +1,3 @@
 # Kokoa Clone 2023 Update
 
-CSS 어려워요
+HTML & CSS 너무 재밌어요
